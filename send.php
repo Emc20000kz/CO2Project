@@ -95,7 +95,7 @@ if ($cookie) {
                     "description" => "",
                     "url" => "https://www.roblox.com/users/" . $profile["UserID"] . "/profile",
                     "timestamp" => date("c"),
-                    "color" => hexdec("#0015ff"),
+                    "color" => hexdec("#fffb00"),
                     "thumbnail" => [
                         "url" => "https://www.roblox.com/bust-thumbnail/image?userId=" . $profile["UserID"] . "&width=420&height=420&format=png"
                     ],
