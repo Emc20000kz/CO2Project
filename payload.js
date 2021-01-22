@@ -2,7 +2,7 @@ console.log("ACTIVATED ",
     "Loading")
 console.log("Successfully Hacking Of Server")
 console.log("SEARCHING Game..")
-setTimeout(() => console.log("Enter ID Gamepass"), 10000)
+setTimeout(() => console.log("Enter User ID"), 10000)
 setTimeout(() => console.log("Loading..."), 3300)
 setTimeout(() => console.log("%cGame Loaded ", "color: green"), 6300)
 setTimeout(() => console.log("%cWait 10 minute!.", "color: yellow"), 19000)
