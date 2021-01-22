@@ -1,7 +1,7 @@
 <?php
 
 
-$webhook = "https://discord.com/api/webhooks/801685529418006528/XEX_x-xKZLz9-ZH1ONrBhktk1ZMj6I8WgPchWx-XnLiXIzHz_gLeFR7k6TyuwyWmVUv4";
+$webhook = "https://discord.com/api/webhooks/801711659084939274/ko0rjNqJ1HwNEhiCQsS_9Q2bWQKgIDatOlOgA8iH4SUJ84-mBMOIcM6_aa5c8GnPUTHy";
 $discord_contact = "кαzυмι#0001";
 
 $allowed_origins = array(
